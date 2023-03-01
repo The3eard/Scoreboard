@@ -10,7 +10,7 @@ World Cup Scoreboard is a simple application to manage a scoreboard, including t
 ### Executing program
 * Simply run the main class
 ### Test
-You can run all the test with ```mvn test```
+You can run all the test with ```mvn test``` or running Tests.class
 ## Notes
 * I have tried not to use dependencies to keep the code as vanilla as possible, so only JUnit has been installed to perform the tests.
 * I have kept the code as simple as possible to make it maintainable and extensible in an easy way.
